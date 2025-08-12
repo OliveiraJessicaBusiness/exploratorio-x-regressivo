@@ -1,3 +1,4 @@
+
 # 📘 Testes Regressivos x Exploratórios: Guia Estratégico para QA
 
 Este repositório reúne conceitos práticos e estratégicos sobre dois pilares fundamentais da qualidade de software: **Testes Regressivos** e **Testes Exploratórios**. Aqui você vai entender as diferenças, quando aplicar cada tipo e como estruturar esses testes para maximizar a eficiência do seu time.
