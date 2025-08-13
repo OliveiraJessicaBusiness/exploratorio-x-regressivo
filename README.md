@@ -111,5 +111,5 @@ Como estruturar a estratégia de testes baseada na pirâmide e aplicar no time.
 
 Me chamo **Jessica Oliveira**, atuo como Quality Assurance com foco em estratégia, processos e melhoria contínua da qualidade de software. Acredito que testes bem feitos transformam produtos e entregas, e que a colaboração é essencial para a excelência.
 
-Feito com 💜 por Jessica Oliveira 📍 Brasil  
+Feito por Jessica Oliveira 👧 📍 Brasil  
 🔗 [linkedin.com/in/jessicaoliveira](https://linkedin.com/in/jessicaoliveira)
